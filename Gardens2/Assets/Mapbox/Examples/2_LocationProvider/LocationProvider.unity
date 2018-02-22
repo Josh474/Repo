@@ -1374,6 +1374,11 @@ Prefab:
       propertyPath: _latitudeLongitude
       value: -27.475776, 153.031405
       objectReference: {fileID: 0}
+    - target: {fileID: 114304334187956690, guid: f836f513cfb284ad0b199b251a8d93a9,
+        type: 2}
+      propertyPath: _updateDistanceInMeters
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f836f513cfb284ad0b199b251a8d93a9, type: 2}
   m_IsPrefabParent: 0
