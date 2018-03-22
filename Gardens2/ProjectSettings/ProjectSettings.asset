@@ -7,7 +7,7 @@ PlayerSettings:
   productGUID: 27dbffcdfe1a01b4b91cf1c6dafc63d6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 0
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -262,7 +262,7 @@ PlayerSettings:
   m_BuildTargetVRSettings: []
   m_BuildTargetEnableVuforiaSettings:
   - m_BuildTarget: Standalone
-    m_Enabled: 0
+    m_Enabled: 1
   - m_BuildTarget: Android
     m_Enabled: 1
   - m_BuildTarget: iOS
