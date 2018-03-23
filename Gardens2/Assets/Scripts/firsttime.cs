@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class firsttime : MonoBehaviour {
     public GameObject instructions;
+    public GameObject backbutton;
     private float HasClosed;
 
 	// Use this for initialization
@@ -13,6 +14,7 @@ public class firsttime : MonoBehaviour {
         if(HasClosed == 1)
         {
             instructions.SetActive(false);
+            backbutton.SetActive(true);
         }
 	}
 }

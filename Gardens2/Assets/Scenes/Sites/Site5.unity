@@ -578,9 +578,9 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: 1864 The first jacaranda tree grew surrounded by Moreton Bay Coral and rocks
+  m_text: 1864 The first Jacaranda tree grew surrounded by Moreton Bay Coral and rocks
     from the Americas. Although felled in a storm its descendants provide shade across
-    Greater Brisbane.
+    greater Brisbane.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: be14ac8932a8a80469314c83f58bb9c4, type: 2}
   m_sharedMaterial: {fileID: 21625963828017002, guid: be14ac8932a8a80469314c83f58bb9c4,
