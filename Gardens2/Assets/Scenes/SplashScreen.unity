@@ -206,7 +206,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 86.79492}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &825869654
@@ -315,7 +315,7 @@ GameObject:
   - component: {fileID: 1529465074}
   - component: {fileID: 1529465073}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -469,8 +469,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 72}
-  m_SizeDelta: {x: 314.12, y: 50}
+  m_AnchoredPosition: {x: 9.9, y: -45.9}
+  m_SizeDelta: {x: 534.4, y: 285.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1670036712
 MonoBehaviour:
@@ -491,7 +491,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: 'This app uses '
+  m_text: Ensure the volume is turned up on your device so you can hear the narration.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5be652eb37489954f958378832a931ef, type: 2}
   m_sharedMaterial: {fileID: 21923161627259936, guid: 5be652eb37489954f958378832a931ef,
@@ -556,15 +556,15 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -21.411865, y: 0, z: -34.462463, w: -171.77332}
+  m_margin: {x: 3.0618896, y: 0, z: -1.0891113, w: -0.4572754}
   m_textInfo:
     textComponent: {fileID: 1670036712}
-    characterCount: 14
+    characterCount: 76
     spriteCount: 0
-    spaceCount: 3
-    wordCount: 3
+    spaceCount: 14
+    wordCount: 15
     linkCount: 0
-    lineCount: 1
+    lineCount: 4
     pageCount: 1
     materialCount: 1
   m_havePropertiesChanged: 0
